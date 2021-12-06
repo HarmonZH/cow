@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da0cf348-c352-4224-900f-ab3ce99f5f7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../softWare/apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="21tzuctlbnmrOTk6MQSU8MXPJbI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CommonApplication">
+    <configuration name="ApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cow-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.harmon.api.ApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cow-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.harmon.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cow-dao" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.harmon.dao.DaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cow-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.harmon.service.ServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cow-storage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.harmon.storage.StorageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CommonApplication" />
+      <item itemvalue="Spring Boot.StorageApplication" />
+      <item itemvalue="Spring Boot.DaoApplication" />
+      <item itemvalue="Spring Boot.ApiApplication" />
+      <item itemvalue="Spring Boot.ServiceApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da0cf348-c352-4224-900f-ab3ce99f5f7d" name="Default Changelist" comment="" />
+      <created>1638775394513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638775394513</updated>
+      <workItem from="1638775402835" duration="3123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="110" width="1193" height="679" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638775832350">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="110" width="1193" height="679" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1638775832350" />
+    <state x="446" y="257" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638778035700">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="446" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1638778035700" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1638779935989">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1638779935989" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1638779935986">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1638779935986" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1638779935985">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1638779935985" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1638779935988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1638779935988" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1638775424147">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1638775424147" />
+    <state x="123" y="152" key="new project wizard" timestamp="1638776674965">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="123" y="152" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1638776674965" />
+  </component>
+</project>

@@ -6,5 +6,7 @@
     <file url="file://$PROJECT_DIR$/cow-dao/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cow-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cow-storage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>

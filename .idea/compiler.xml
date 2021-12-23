@@ -6,30 +6,40 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cow-dao" />
-        <module name="cow-service" />
-        <module name="cow-storage" />
-        <module name="cow-api" />
-        <module name="cow-common" />
+        <module name="api" />
+        <module name="storage" />
+        <module name="common" />
+        <module name="service" />
+        <module name="dao" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="common" target="1.8" />
       <module name="cow" target="1.8" />
       <module name="cow-api" target="1.8" />
       <module name="cow-common" target="1.8" />
       <module name="cow-dao" target="1.8" />
       <module name="cow-service" target="1.8" />
       <module name="cow-storage" target="1.8" />
+      <module name="dao" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="storage" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="cow" options="-parameters" />
+      <module name="api" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="cow" options="" />
       <module name="cow-api" options="-parameters" />
       <module name="cow-common" options="-parameters" />
       <module name="cow-dao" options="-parameters" />
       <module name="cow-service" options="-parameters" />
       <module name="cow-storage" options="-parameters" />
+      <module name="dao" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="storage" options="-parameters" />
     </option>
   </component>
 </project>

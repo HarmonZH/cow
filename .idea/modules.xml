@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cow-api/api.iml" filepath="$PROJECT_DIR$/cow-api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cow-common/common.iml" filepath="$PROJECT_DIR$/cow-common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/cow.iml" filepath="$PROJECT_DIR$/cow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cow-api/cow-api.iml" filepath="$PROJECT_DIR$/cow-api/cow-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cow-common/cow-common.iml" filepath="$PROJECT_DIR$/cow-common/cow-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cow-dao/cow-dao.iml" filepath="$PROJECT_DIR$/cow-dao/cow-dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cow-service/cow-service.iml" filepath="$PROJECT_DIR$/cow-service/cow-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cow-storage/cow-storage.iml" filepath="$PROJECT_DIR$/cow-storage/cow-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cow-dao/dao.iml" filepath="$PROJECT_DIR$/cow-dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cow-service/service.iml" filepath="$PROJECT_DIR$/cow-service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cow-storage/storage.iml" filepath="$PROJECT_DIR$/cow-storage/storage.iml" />
     </modules>
   </component>
 </project>
